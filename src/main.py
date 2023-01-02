@@ -299,7 +299,7 @@ def alexa_speech_recognizer_generate_data(audio, boundary):
 		},
 		"messageBody": {
 			"profile": "alexa-close-talk",
-			"locale": "en-us",
+			"locale": "pt-BR",
 			"format": "audio/L16; rate=16000; channels=1"
 		}
 	}
